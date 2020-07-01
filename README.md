@@ -1,7 +1,7 @@
 # Cloning Kakao Talk
 
 This project is to practice html and css by cloning the most famous messanger app in South Korea.  
-Followings are main components of this project:
+Followings are main structures of this project:
 
 1. index.html
 2. friends.html
