@@ -10,3 +10,5 @@ Followings are main structures of this project:
 5. settings.html
 
 ---
+
+## Font Awesome
