@@ -14,4 +14,11 @@ Followings are main structures of this project:
 ## Reset.css
 
 This css file reset all the styles to zero. For example, zero paddings, zero margins, etc.  
-It will save our time to modify the style of each element.
+It will save our time to modify the style of each element. Basically, I will customize it on my own.
+
+---
+
+## Import Google Font
+
+Go to Google Font and pick 'Open Sans'. We will use regular and bold font.  
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
