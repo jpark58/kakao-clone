@@ -11,4 +11,7 @@ Followings are main structures of this project:
 
 ---
 
-## Font Awesome
+## Reset.css
+
+This css file reset all the styles to zero. For example, zero paddings, zero margins, etc.  
+It will save our time to modify the style of each element.
