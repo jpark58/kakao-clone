@@ -15,3 +15,7 @@
 .friends__friend {
   margin-top: 10px;
 }
+
+.friends__list {
+  min-height: 70vh;
+}
